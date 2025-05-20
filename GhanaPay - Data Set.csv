@@ -1,0 +1,101 @@
+TransactionID,CustomerID,TransactionType,Amount (GHS),Date,Month,Time,Location,DeviceType,Status
+1,CUST0004,Mobile Money Transfer,741.81,2025-02-01,Feb,07:08:00 am,Cape Coast,Android,Success
+2,CUST0018,Mobile Money Transfer,590.9,2025-01-05,Jan,12:05:00 am,Kumasi,Android,Success
+3,CUST0001,Loan Repayment,199.64,2025-03-25,Mar,10:34:00 pm,Takoradi,Android,Success
+4,CUST0009,Mobile Money Transfer,759.05,2025-01-21,Jan,10:27:00 pm,Tamale,iOS,Success
+5,CUST0011,Mobile Money Transfer,93.65,2025-01-13,Jan,11:54:00 am,Tamale,USSD,Success
+6,CUST0002,Loan Disbursement,459.97,2025-01-16,Jan,12:05:00 pm,Ho,iOS,Success
+7,CUST0020,Airtime Purchase,577.77,2025-04-01,Apr,02:02:00 am,Cape Coast,Android,Success
+8,CUST0003,Bill Payment,866.62,2025-02-18,Feb,08:29:00 am,Cape Coast,iOS,Success
+9,CUST0012,Bill Payment,670.5,2025-03-31,Mar,09:41:00 pm,Accra,USSD,Success
+10,CUST0018,Loan Disbursement,245.57,2025-03-01,Mar,12:17:00 pm,Cape Coast,USSD,Success
+11,CUST0011,Mobile Money Transfer,229.82,2025-01-05,Jan,10:25:00 am,Tamale,Android,Success
+12,CUST0019,Loan Disbursement,315.36,2025-03-25,Mar,03:25:00 pm,Cape Coast,iOS,Success
+13,CUST0005,Bill Payment,745.24,2025-03-10,Mar,08:47:00 am,Ho,iOS,Success
+14,CUST0013,Airtime Purchase,220.1,2025-01-18,Jan,04:31:00 pm,Accra,Android,Success
+15,CUST0005,Loan Disbursement,160.82,2025-03-29,Mar,01:38:00 pm,Accra,iOS,Success
+16,CUST0015,Loan Repayment,252.16,2025-03-12,Mar,12:43:00 am,Cape Coast,Android,Success
+17,CUST0018,Airtime Purchase,768.83,2025-02-13,Feb,03:18:00 am,Takoradi,Android,Success
+18,CUST0009,Loan Repayment,762.2,2025-03-06,Mar,03:55:00 am,Cape Coast,iOS,Success
+19,CUST0017,Loan Repayment,199.71,2025-02-17,Feb,05:34:00 am,Sunyani,USSD,Failed
+20,CUST0020,Airtime Purchase,489.12,2025-01-15,Jan,11:56:00 am,Sunyani,iOS,Success
+21,CUST0008,Loan Repayment,947,2025-01-11,Jan,11:31:00 pm,Sunyani,Android,Failed
+22,CUST0018,Bill Payment,129.26,2025-03-02,Mar,05:10:00 pm,Tamale,USSD,Success
+23,CUST0014,Bill Payment,928.98,2025-03-30,Mar,06:45:00 am,Tamale,iOS,Failed
+24,CUST0012,Merchant Payment,899.71,2025-02-27,Feb,03:15:00 am,Kumasi,Android,Success
+25,CUST0019,Loan Repayment,230.88,2025-01-29,Jan,12:04:00 am,Cape Coast,USSD,Success
+26,CUST0003,Mobile Money Transfer,859.78,2025-01-10,Jan,04:15:00 pm,Tamale,USSD,Success
+27,CUST0018,Bill Payment,723.63,2025-03-15,Mar,06:30:00 pm,Kumasi,iOS,Success
+28,CUST0007,Mobile Money Transfer,97.83,2025-02-25,Feb,11:27:00 am,Takoradi,iOS,Success
+29,CUST0002,Loan Disbursement,653.8,2025-03-24,Mar,03:03:00 am,Takoradi,USSD,Success
+30,CUST0004,Bill Payment,192.4,2025-03-10,Mar,02:08:00 pm,Takoradi,Android,Success
+31,CUST0008,Mobile Money Transfer,443.69,2025-03-12,Mar,03:03:00 am,Cape Coast,USSD,Success
+32,CUST0003,Bill Payment,167.14,2025-03-04,Mar,03:13:00 pm,Sunyani,iOS,Failed
+33,CUST0006,Merchant Payment,3.15,2025-02-19,Feb,08:59:00 am,Sunyani,iOS,Success
+34,CUST0018,Loan Disbursement,718.69,2025-01-20,Jan,06:18:00 am,Kumasi,Android,Success
+35,CUST0018,Mobile Money Transfer,748.23,2025-01-08,Jan,01:37:00 am,Takoradi,USSD,Failed
+36,CUST0017,Bill Payment,57.82,2025-03-07,Mar,02:54:00 am,Kumasi,Android,Success
+37,CUST0008,Merchant Payment,120.77,2025-03-14,Mar,07:37:00 am,Ho,Android,Success
+38,CUST0014,Loan Disbursement,584.09,2025-03-08,Mar,10:59:00 am,Tamale,Android,Success
+39,CUST0011,Bill Payment,266.35,2025-01-17,Jan,09:41:00 pm,Tamale,iOS,Success
+40,CUST0003,Mobile Money Transfer,458.83,2025-03-14,Mar,03:04:00 am,Ho,Android,Success
+41,CUST0005,Airtime Purchase,880.98,2025-02-01,Feb,11:18:00 am,Kumasi,iOS,Success
+42,CUST0010,Loan Repayment,983.87,2025-03-25,Mar,04:00:00 pm,Cape Coast,USSD,Success
+43,CUST0004,Bill Payment,265.2,2025-01-14,Jan,11:35:00 pm,Kumasi,iOS,Success
+44,CUST0007,Loan Disbursement,343.54,2025-03-29,Mar,08:54:00 pm,Tamale,USSD,Success
+45,CUST0002,Mobile Money Transfer,634.65,2025-02-05,Feb,01:00:00 am,Tamale,Android,Success
+46,CUST0009,Bill Payment,741.49,2025-03-12,Mar,10:27:00 pm,Ho,Android,Success
+47,CUST0005,Loan Repayment,36.99,2025-02-17,Feb,06:35:00 pm,Kumasi,iOS,Success
+48,CUST0010,Airtime Purchase,899.08,2025-01-06,Jan,11:13:00 am,Cape Coast,Android,Success
+49,CUST0012,Loan Repayment,884.25,2025-02-22,Feb,07:47:00 pm,Kumasi,Android,Success
+50,CUST0006,Merchant Payment,25.76,2025-02-12,Feb,01:51:00 pm,Cape Coast,USSD,Success
+51,CUST0009,Bill Payment,787.59,2025-01-14,Jan,12:55:00 pm,Accra,iOS,Success
+52,CUST0015,Airtime Purchase,305.89,2025-01-30,Jan,07:01:00 am,Cape Coast,Android,Success
+53,CUST0009,Mobile Money Transfer,966.92,2025-02-05,Feb,11:41:00 am,Ho,iOS,Success
+54,CUST0018,Airtime Purchase,939.3,2025-01-15,Jan,08:11:00 am,Ho,iOS,Success
+55,CUST0020,Merchant Payment,346.34,2025-02-10,Feb,01:38:00 pm,Ho,Android,Success
+56,CUST0019,Bill Payment,255.47,2025-04-01,Apr,01:00:00 pm,Ho,USSD,Success
+57,CUST0007,Airtime Purchase,431.87,2025-03-27,Mar,10:39:00 am,Tamale,USSD,Success
+58,CUST0010,Loan Repayment,309.98,2025-02-22,Feb,10:25:00 am,Cape Coast,iOS,Success
+59,CUST0007,Merchant Payment,665.26,2025-02-18,Feb,09:47:00 pm,Kumasi,USSD,Success
+60,CUST0013,Loan Repayment,833.89,2025-02-08,Feb,09:13:00 am,Takoradi,USSD,Success
+61,CUST0011,Merchant Payment,442.34,2025-03-28,Mar,06:32:00 am,Takoradi,USSD,Success
+62,CUST0003,Airtime Purchase,515.94,2025-03-23,Mar,07:21:00 pm,Accra,Android,Success
+63,CUST0008,Bill Payment,148.21,2025-01-06,Jan,07:30:00 am,Ho,Android,Success
+64,CUST0019,Bill Payment,718.63,2025-02-19,Feb,03:25:00 pm,Kumasi,Android,Success
+65,CUST0001,Mobile Money Transfer,778.64,2025-01-29,Jan,05:51:00 am,Cape Coast,USSD,Success
+66,CUST0018,Bill Payment,917.55,2025-01-16,Jan,02:08:00 pm,Sunyani,iOS,Success
+67,CUST0018,Loan Repayment,317.98,2025-02-26,Feb,07:52:00 pm,Cape Coast,USSD,Success
+68,CUST0018,Merchant Payment,897.31,2025-03-02,Mar,02:16:00 pm,Sunyani,Android,Success
+69,CUST0009,Loan Repayment,485.11,2025-01-31,Jan,08:28:00 am,Accra,USSD,Success
+70,CUST0009,Airtime Purchase,320.39,2025-03-11,Mar,02:08:00 am,Kumasi,Android,Success
+71,CUST0005,Loan Disbursement,214.74,2025-02-23,Feb,01:21:00 pm,Ho,iOS,Success
+72,CUST0007,Merchant Payment,390.09,2025-03-16,Mar,10:01:00 pm,Sunyani,USSD,Success
+73,CUST0001,Airtime Purchase,299.31,2025-02-19,Feb,01:34:00 pm,Cape Coast,USSD,Success
+74,CUST0020,Bill Payment,488.74,2025-02-04,Feb,01:31:00 pm,Accra,iOS,Success
+75,CUST0013,Loan Disbursement,165.88,2025-03-01,Mar,04:39:00 am,Ho,Android,Failed
+76,CUST0019,Loan Repayment,663.34,2025-01-11,Jan,08:27:00 pm,Kumasi,iOS,Success
+77,CUST0009,Merchant Payment,328.03,2025-02-28,Feb,10:21:00 am,Sunyani,iOS,Success
+78,CUST0014,Airtime Purchase,835.08,2025-03-02,Mar,12:47:00 am,Ho,Android,Failed
+79,CUST0012,Bill Payment,650.49,2025-03-25,Mar,01:48:00 am,Accra,Android,Success
+80,CUST0001,Loan Repayment,153.23,2025-01-17,Jan,03:42:00 pm,Accra,USSD,Failed
+81,CUST0015,Loan Disbursement,256.99,2025-02-17,Feb,05:38:00 am,Ho,USSD,Success
+82,CUST0006,Airtime Purchase,108.99,2025-01-04,Jan,09:36:00 am,Cape Coast,iOS,Success
+83,CUST0007,Mobile Money Transfer,592.51,2025-03-22,Mar,07:06:00 am,Cape Coast,iOS,Success
+84,CUST0020,Mobile Money Transfer,796.43,2025-03-14,Mar,01:22:00 am,Ho,iOS,Success
+85,CUST0003,Loan Repayment,647.9,2025-01-02,Jan,01:52:00 pm,Takoradi,Android,Success
+86,CUST0012,Loan Disbursement,891.68,2025-02-28,Feb,10:09:00 pm,Takoradi,Android,Success
+87,CUST0009,Loan Repayment,808.39,2025-03-10,Mar,03:29:00 pm,Takoradi,USSD,Success
+88,CUST0011,Bill Payment,830.9,2025-01-12,Jan,08:56:00 am,Takoradi,Android,Success
+89,CUST0019,Loan Repayment,668.52,2025-02-13,Feb,12:31:00 am,Sunyani,iOS,Success
+90,CUST0007,Airtime Purchase,798.03,2025-02-13,Feb,08:56:00 am,Ho,USSD,Success
+91,CUST0018,Mobile Money Transfer,517.11,2025-01-25,Jan,02:15:00 am,Cape Coast,iOS,Success
+92,CUST0008,Loan Disbursement,476.62,2025-03-04,Mar,02:50:00 pm,Accra,Android,Success
+93,CUST0013,Loan Disbursement,244.06,2025-03-26,Mar,06:23:00 pm,Takoradi,USSD,Success
+94,CUST0014,Loan Disbursement,550.84,2025-02-15,Feb,10:29:00 pm,Tamale,iOS,Success
+95,CUST0004,Loan Disbursement,193.39,2025-01-16,Jan,11:34:00 pm,Sunyani,USSD,Success
+96,CUST0007,Loan Disbursement,484.71,2025-03-17,Mar,04:38:00 pm,Tamale,Android,Success
+97,CUST0010,Bill Payment,361.52,2025-02-08,Feb,12:45:00 am,Ho,Android,Success
+98,CUST0002,Loan Repayment,292.84,2025-01-17,Jan,08:55:00 pm,Sunyani,iOS,Success
+99,CUST0001,Loan Repayment,285.05,2025-03-03,Mar,02:21:00 pm,Kumasi,Android,Success
+100,CUST0016,Mobile Money Transfer,822.29,2025-02-21,Feb,03:04:00 pm,Ho,USSD,Success
