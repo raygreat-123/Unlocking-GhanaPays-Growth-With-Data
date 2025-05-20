@@ -73,8 +73,4 @@ Demonstrate applied data storytelling skills
 
 Show business value from data insights
 
-# Files in This Repo
-File Name	Description
-GhanaPay - Data Set.xlsx	Simulated dataset of customer transactions
-Dashboard Screenshot.png	Visual summary of insights
-README.md	Project summary and disclaimer
+
